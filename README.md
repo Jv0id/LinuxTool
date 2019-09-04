@@ -61,7 +61,7 @@ Weapon
 |名称|描述
 |----|----
 |[网络](Net.md)|网络配置相关命令
-|[cron](cron.md)|计划任务
+|[cron](crontab.md)|计划任务
 |[ftp](ftp)|ftp命令
 |[samba](samba)|Linux与Windows通信服务
 |[ssh](ssh)|ssh有关的工具和命令
